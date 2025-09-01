@@ -1,4 +1,4 @@
-# E-commerce AI Agent
+# E-commerce AI Agent.
 
 An intelligent AI agent that answers questions about e-commerce data using natural language processing and SQL query generation.
 
